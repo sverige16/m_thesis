@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T13:51:20.880Z" agent="5.0 (Macintosh)" etag="DjZF53tJhpMG-liNGlW0" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T13:52:05.427Z" agent="5.0 (Macintosh)" etag="_XQDkSS_COFIonRMoFTx" version="20.5.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1892" dy="2160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -29,8 +29,8 @@
         <mxCell id="D1hPwI1u1eyKQ4dJg58t-9" value="&lt;b&gt;Source: &lt;/b&gt;Pharmbio " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="40" y="600" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D1hPwI1u1eyKQ4dJg58t-12" value="Tian: EfficientNet (state-of-the-art ConvNet)" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=12;" parent="1" edge="1">
-          <mxGeometry x="0.3342" y="-30" relative="1" as="geometry">
+        <mxCell id="D1hPwI1u1eyKQ4dJg58t-12" value="Tian: EfficientNet " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=12;" parent="1" edge="1">
+          <mxGeometry x="0.0009" y="-30" relative="1" as="geometry">
             <mxPoint x="370" y="590" as="sourcePoint" />
             <mxPoint x="550" y="590.5" as="targetPoint" />
             <mxPoint as="offset" />
