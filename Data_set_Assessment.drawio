@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T15:38:30.094Z" agent="5.0 (Macintosh)" version="20.7.2" etag="xTmjVdpmq3DvuG6K_DQw" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T16:05:51.986Z" agent="5.0 (Macintosh)" version="20.7.2" etag="RAUKscSjsT7s45-BYnki" type="github">
   <diagram id="PhBgAkIv2iKpxoaBNRNj" name="Page-1">
     <mxGraphModel dx="935" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -60,18 +60,6 @@
         <mxCell id="AMgz83IQuDpmgpYxbM82-8" value="Extract all relevant expression profiles for relevant MoAs/Compounds" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="400" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AMgz83IQuDpmgpYxbM82-11" value="Things to Keep Track Of" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="930" width="200" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="AMgz83IQuDpmgpYxbM82-12" value="Cell type" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AMgz83IQuDpmgpYxbM82-11">
-          <mxGeometry y="30" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AMgz83IQuDpmgpYxbM82-13" value="D" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AMgz83IQuDpmgpYxbM82-11">
-          <mxGeometry x="20" y="60" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="AMgz83IQuDpmgpYxbM82-37" value="Cell type" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AMgz83IQuDpmgpYxbM82-11">
-          <mxGeometry y="90" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="AMgz83IQuDpmgpYxbM82-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.463;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AMgz83IQuDpmgpYxbM82-16" target="AMgz83IQuDpmgpYxbM82-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -114,11 +102,26 @@
         <mxCell id="AMgz83IQuDpmgpYxbM82-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AMgz83IQuDpmgpYxbM82-38" target="AMgz83IQuDpmgpYxbM82-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AMgz83IQuDpmgpYxbM82-38" value="Classifier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AMgz83IQuDpmgpYxbM82-38" value="Batter of Classifiers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="655" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AMgz83IQuDpmgpYxbM82-39" value="Model assessments" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="655" y="850" width="120" height="60" as="geometry" />
+        <mxCell id="AMgz83IQuDpmgpYxbM82-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AMgz83IQuDpmgpYxbM82-39" target="AMgz83IQuDpmgpYxbM82-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AMgz83IQuDpmgpYxbM82-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AMgz83IQuDpmgpYxbM82-39" target="AMgz83IQuDpmgpYxbM82-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AMgz83IQuDpmgpYxbM82-39" value="Model assessment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="970" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AMgz83IQuDpmgpYxbM82-64" value="Hyperparameter Tuning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AMgz83IQuDpmgpYxbM82-65" value="Final Model evaluation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="1045" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="AMgz83IQuDpmgpYxbM82-73" value="Download LINCS Level 5 Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1920" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
