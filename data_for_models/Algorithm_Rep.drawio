@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T12:16:39.474Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="Z0SkRkGf43v3UrpkLbsO" version="21.3.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-26T13:32:47.078Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="SvwxF2j1Dy1w6cQOSgGy" version="21.3.3" type="github" pages="2">
   <diagram name="Page-1" id="MGEyhEqYbqKT3gjWiVQs">
     <mxGraphModel dx="571" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -266,7 +266,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-1" value="1D- Convolutional Neural Network" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Cr_tXzbcOWaUCG7HmpY-2" target="-Cr_tXzbcOWaUCG7HmpY-8">
+        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-1" value="1D- Convolutional Neural Network" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="-Cr_tXzbcOWaUCG7HmpY-2" target="-Cr_tXzbcOWaUCG7HmpY-8">
           <mxGeometry x="-0.1313" y="4" relative="1" as="geometry">
             <mxPoint x="2701" y="920" as="sourcePoint" />
             <mxPoint x="2981" y="1120" as="targetPoint" />
@@ -287,7 +287,7 @@
             <mxPoint x="2841" y="1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-5" value="EfficientNet" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Cr_tXzbcOWaUCG7HmpY-4">
+        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;EfficientNet&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Cr_tXzbcOWaUCG7HmpY-4">
           <mxGeometry x="0.0307" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -295,8 +295,8 @@
         <mxCell id="-Cr_tXzbcOWaUCG7HmpY-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Cell Painting&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="2402" y="1130" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-7" value="Multi-Layer Perceptron&#xa;" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Cr_tXzbcOWaUCG7HmpY-3" target="-Cr_tXzbcOWaUCG7HmpY-8">
-          <mxGeometry x="-0.1223" y="-10" relative="1" as="geometry">
+        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-7" value="Multi-Layer Perceptron&#xa;" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="-Cr_tXzbcOWaUCG7HmpY-3" target="-Cr_tXzbcOWaUCG7HmpY-8">
+          <mxGeometry x="-0.1246" y="-10" relative="1" as="geometry">
             <mxPoint x="2689" y="1167" as="sourcePoint" />
             <mxPoint x="2879" y="1167.5" as="targetPoint" />
             <mxPoint as="offset" />
@@ -305,10 +305,39 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-8" value="Joint Model" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="2934" y="1130" width="82" height="80" as="geometry" />
+        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-35" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=1;" edge="1" parent="1" source="-Cr_tXzbcOWaUCG7HmpY-8" target="-Cr_tXzbcOWaUCG7HmpY-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3060" y="1130" />
+              <mxPoint x="3060" y="1100" />
+              <mxPoint x="3202" y="1100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-9" value="&lt;div&gt;Unknown Compound 1&lt;/div&gt;&lt;div&gt;Unknown Compound 2 &lt;br&gt;&lt;/div&gt;&lt;div&gt;Unknown Compound 3&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-38" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;End-to-End&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Cr_tXzbcOWaUCG7HmpY-35">
+          <mxGeometry x="-0.1463" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-Cr_tXzbcOWaUCG7HmpY-8" target="-Cr_tXzbcOWaUCG7HmpY-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3030" y="1220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="3060" y="1210" />
+              <mxPoint x="3060" y="1240" />
+              <mxPoint x="3202" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-37" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Soft Voting&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Cr_tXzbcOWaUCG7HmpY-36">
+          <mxGeometry x="-0.0439" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-8" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Joint Model&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="2975" y="1130" width="82" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-9" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Unknown Compound 1&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Unknown Compound 2 &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Unknown Compound 3&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3240" y="980" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-Cr_tXzbcOWaUCG7HmpY-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=48;rounded=1;fontSize=12;rotation=90;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
@@ -317,47 +346,29 @@
         <mxCell id="-Cr_tXzbcOWaUCG7HmpY-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.bendArrow;dy=15;dx=38;notch=0;arrowHead=48;rounded=1;fontSize=12;rotation=-180;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
           <mxGeometry x="3250" y="1060" width="122" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-12" value="&lt;div&gt;MoA 1&lt;/div&gt;&lt;div&gt;MoA 2&lt;/div&gt;&lt;div&gt;MoA 3&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-12" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;MoA 1&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;MoA 2&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;MoA 3&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3240" y="1310" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-13" value="&lt;div&gt;&lt;b&gt;Output&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Mechanism of Action for Compound&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="3245" y="1380" width="210" height="60" as="geometry" />
+        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-13" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Output&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Mechanism of Action for Compound&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="3235" y="1380" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3029" y="1167.5" as="sourcePoint" />
-            <mxPoint x="3095" y="1168" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-15" value="Feature Extraction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Cr_tXzbcOWaUCG7HmpY-14">
-          <mxGeometry x="-0.3333" y="-1" relative="1" as="geometry">
-            <mxPoint x="31" y="-20" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-16" value="Fine Tuning" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry y="-21" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3099" y="1167.5" as="sourcePoint" />
-            <mxPoint x="3159" y="1167.5" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-17" value="Final Joint Model" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="3168.99" y="1135.85" width="76.01" height="74.15" as="geometry" />
+        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-17" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Final Joint Model&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="3163.99" y="1135.85" width="76.01" height="74.15" as="geometry" />
         </mxCell>
         <mxCell id="-Cr_tXzbcOWaUCG7HmpY-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Input&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="2399" y="750" width="252" height="60" as="geometry" />
+          <mxGeometry x="2399" y="818" width="252" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Cr_tXzbcOWaUCG7HmpY-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Machine Learning Framework&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="2670" y="750" width="236" height="60" as="geometry" />
+          <mxGeometry x="2670" y="818" width="236" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Cr_tXzbcOWaUCG7HmpY-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Prediction&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="3240" y="750" width="231" height="60" as="geometry" />
+          <mxGeometry x="3240" y="818" width="231" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Cr_tXzbcOWaUCG7HmpY-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Joint Model Optimization&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="2940" y="750" width="292" height="60" as="geometry" />
+          <mxGeometry x="2940" y="818" width="292" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-28" value="&lt;div&gt;&lt;b&gt;Input&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;Compound Structure Representation&lt;/div&gt;&lt;div&gt;Transcriptomic Profile&lt;br&gt;&lt;/div&gt;&lt;div&gt;Morphological Profile&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="3240" y="900" width="220" height="70" as="geometry" />
+        <mxCell id="-Cr_tXzbcOWaUCG7HmpY-28" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Input&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp;Compound Structure Representation&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Transcriptomic Profile&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Morphological Profile&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="3230" y="895" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
